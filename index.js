@@ -2,7 +2,7 @@
 var customerName = 'bob';
 
 function upperCaseCustomerName(customerName) {
-  let capitalizedCustomerName = customerName.toUpperCase();
+  let customerName = customerName.toUpperCase();
 
-  return capitalizedCustomerName
+  return customerName
 }
